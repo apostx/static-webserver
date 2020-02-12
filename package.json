@@ -1,0 +1,23 @@
+{
+    "name": "static-webserver",
+    "description": "StaticWebServer",
+    "version": "0.0.1",
+    "author": "apostx",
+    "license": "MIT",
+    "repository": "github:apostx/static-webserver",
+    "devDependencies": {
+        "mocha": "7.0.0"
+    },
+    "scripts": {
+        "test": "mocha --recursive"
+    },
+    "engines": {
+        "node": ">= 0.10.0"
+    },
+    "files": [
+        "LICENSE",
+        "Readme.md",
+        "index.js",
+        "lib/"
+    ]
+}
