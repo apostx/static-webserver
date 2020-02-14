@@ -4,7 +4,7 @@
     "version": "0.0.1",
     "author": "apostx",
     "license": "MIT",
-    "repository": "github:apostx/static-webserver",
+    "repository": "github:apostx/static-webserver-js",
     "devDependencies": {
         "mocha": "7.0.0"
     },
